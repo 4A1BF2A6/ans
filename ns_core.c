@@ -16,7 +16,7 @@
 #include "noise_suppression.h"
 #include "ns_core.h"
 #include "windows_private.h"
-#include "../spl.h"
+#include "spl.h"
 
 // Set Feature Extraction Parameters.
 static void set_feature_extraction_parameters(NoiseSuppressionC* self) {

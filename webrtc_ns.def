@@ -1,0 +1,11 @@
+LIBRARY webrtc_ns
+EXPORTS
+    WebRtcNs_Create
+    WebRtcNs_Free
+    WebRtcNs_Init
+    WebRtcNs_set_policy
+    WebRtcNs_Analyze
+    WebRtcNs_Process
+    WebRtcNs_prior_speech_probability
+    WebRtcNs_noise_estimate
+    WebRtcNs_num_freq
