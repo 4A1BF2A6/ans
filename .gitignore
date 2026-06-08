@@ -11,3 +11,6 @@
 *.ilk
 *.exp
 *.lib
+
+# Linux 编译产物
+*.so
